@@ -20,6 +20,6 @@ proves that much more influences price negotiations than the number of bedrooms 
 -------
 (KNN, Decision Tree, Linear Regression(pic of graphs))
 ![K-Nearest Neighbor](templates/Images/KNNelbow.PNG)
-![Decision Tree](templates/Images/treecrop.PNG)
+![Decision Tree](templates/Images/treeCrop.PNG)
 ## Summary
 ------
