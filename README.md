@@ -14,11 +14,14 @@ proves that much more influences price negotiations than the number of bedrooms 
 
 ## Cleaning Data 
 ------------
-(One Hot Encoding, grabbed features using a heatmap(pic))
+A heatmap was used to first identify the necessary features needed for encoding.
 ![Features Heatmap](templates/Images/FeaturesHeatmap.png)
+
+Out of the 85 features included in the data set, 42 were in encoded based on relavance of pricing of the home.
+![Encoding](templates/Images/Encoding.png)
 ## Modeling Data 
 -------
-(KNN, Decision Tree, Linear Regression(pic of graphs))
+
 ![K-Nearest Neighbor](templates/Images/KNNelbow.PNG)
 ![Decision Tree](templates/Images/treeCrop.PNG)
 ## Summary
