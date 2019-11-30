@@ -23,6 +23,9 @@ Out of the 85 features included in the data set, 42 were in encoded based on rel
 -------
 
 ![K-Nearest Neighbor](templates/Images/KNNelbow.PNG)
+
+Sklearn was used to make a linear regression model, and ensemble a decision tree.
 ![Decision Tree](templates/Images/treeCrop.PNG)
-## Summary
-------
+
+[Machine Learning- Housing Prices](https://morrison-td.github.io/Housing_MachineLearning/)
+
