@@ -10,7 +10,12 @@ proves that much more influences price negotiations than the number of bedrooms 
 [Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 
-- Clean Data (One Hot Encoding, grabbed features using a heatmap(pic))
-- Model Data (KNN, Decision Tree, Linear Regression(pic of graphs))
+## Cleaning Data 
+------------
+(One Hot Encoding, grabbed features using a heatmap(pic))
+## Model Data 
+-------
+(KNN, Decision Tree, Linear Regression(pic of graphs))
 
-- Summary
+## Summary
+------
