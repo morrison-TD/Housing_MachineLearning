@@ -22,7 +22,7 @@ Out of the 85 features included in the data set, 42 were in encoded based on rel
 ![Encoding](templates/Images/Encoding.png)
 ## Modeling Data 
 -------
-Machine Learning Libraries:
+
 ![K-Nearest Neighbor](templates/Images/KNNelbow.PNG)
 
 Sklearn was used to make a linear regression model, and ensemble a decision tree.
