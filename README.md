@@ -14,6 +14,7 @@ proves that much more influences price negotiations than the number of bedrooms 
 
 ## Cleaning Data 
 ------------
+
 A heatmap was used to first identify the necessary features needed for encoding.
 ![Features Heatmap](templates/Images/FeaturesHeatmap.png)
 
@@ -21,7 +22,7 @@ Out of the 85 features included in the data set, 42 were in encoded based on rel
 ![Encoding](templates/Images/Encoding.png)
 ## Modeling Data 
 -------
-
+Machine Learning Libraries:
 ![K-Nearest Neighbor](templates/Images/KNNelbow.PNG)
 
 Sklearn was used to make a linear regression model, and ensemble a decision tree.
